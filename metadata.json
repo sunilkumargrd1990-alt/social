@@ -1,0 +1,8 @@
+{
+  "name": "Your Assistant",
+  "description": "An application that showcases both text-based chat and real-time voice conversations with the Gemini API, allowing users to switch between a text chatbot and a live audio conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
